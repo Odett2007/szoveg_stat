@@ -1,0 +1,7 @@
+C:\Users\1tc-selode\Documents\GitHub\szoveg_stat\szoveg stat\szoveg stat\bin\Debug\szoveg stat.exe.config
+C:\Users\1tc-selode\Documents\GitHub\szoveg_stat\szoveg stat\szoveg stat\bin\Debug\szoveg stat.exe
+C:\Users\1tc-selode\Documents\GitHub\szoveg_stat\szoveg stat\szoveg stat\bin\Debug\szoveg stat.pdb
+C:\Users\1tc-selode\Documents\GitHub\szoveg_stat\szoveg stat\szoveg stat\obj\Debug\szoveg stat.csproj.AssemblyReference.cache
+C:\Users\1tc-selode\Documents\GitHub\szoveg_stat\szoveg stat\szoveg stat\obj\Debug\szoveg stat.csproj.CoreCompileInputs.cache
+C:\Users\1tc-selode\Documents\GitHub\szoveg_stat\szoveg stat\szoveg stat\obj\Debug\szoveg stat.exe
+C:\Users\1tc-selode\Documents\GitHub\szoveg_stat\szoveg stat\szoveg stat\obj\Debug\szoveg stat.pdb
