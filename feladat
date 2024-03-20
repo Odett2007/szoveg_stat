@@ -1,0 +1,12 @@
+0. feladat
+Be: szöveg
+1. feladat
+Ki: A szöveg ? szóból áll.
+2. feladat
+Ki: A szöveg visszafelé: ?
+3. feladat
+Olvasd listába az egyes szavakat 
+szöveg.split()
+Ki: Írasd ki a listát
+4. feladat
+Ki: A leghosszabb szó a ? (?karakterből áll)
