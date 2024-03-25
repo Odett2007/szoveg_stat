@@ -27,17 +27,31 @@ namespace szoveg_stat
             }
             return szam;
         }
+        static string Visszafele(string szoveg)
+        {
+            int index = szoveg.Length;
+            string eredmeny = "";
+            for (int i = index - 1; i >= 0; i--)
+            {
+                eredmeny += szoveg[i];
+            }
+            return eredmeny;
+        }
+
         static void Main(string[] args)
         {
             //0. 
             Console.Write("Be: ");
             string szoveg = Console.ReadLine();
-            Console.WriteLine(" ");
 
-            //1.
+            //1. A szöveg ? szóból áll.
             string ket_szokoz = Ket_szokoz(szoveg);
             int szoszam = Szoszam(ket_szokoz);
             Console.WriteLine($"Szavak száma: {szoszam}");
+
+            //2. A szöveg visszafelé: ?
+            string visszafele = Visszafele(szoveg);
+            Console.WriteLine($"A szoveg visszafele: {visszafele}");
 
 
             Console.ReadKey();
